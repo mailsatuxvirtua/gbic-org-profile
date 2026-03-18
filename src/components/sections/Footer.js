@@ -1,6 +1,18 @@
 import { Facebook, Instagram, Youtube, Twitter } from 'lucide-react';
 
 export function Footer() {
+
+  const contactInfo = [
+    {
+      title: 'Alamat',
+      details: 'Jl. Krakatau No.RT.002, RW.006, Karang Tim., Kec. Karang Tengah, Kota Tangerang, Banten 15157',
+    },
+    {
+      title: 'Nomor Telepon',
+      details: '+62 889-8864-8656',
+    }
+  ];
+
   return (
     <footer className="bg-gray-900 text-white py-8 md:py-12 lg:py-16">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">

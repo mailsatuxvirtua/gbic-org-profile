@@ -32,7 +32,6 @@ export default async function Home() {
       <About />
       <Ministries />
       <Events />
-      <Contact />
       <Header />
       <Footer />
     </>

@@ -15,7 +15,7 @@ export function Contact() {
       icon: Phone,
       title: 'Nomor Telepon',
       details: '+62 889-8864-8656',
-    },
+    }
 //    {
 //      icon: Mail,
 //      title: 'Surel',
@@ -51,13 +51,6 @@ export function Contact() {
                 </div>
               );
             })}
-
-            // map placeholder
-//            <div className="mt-6 md:mt-8 h-48 sm:h-56 md:h-64 bg-gray-200 rounded-lg overflow-hidden">
-//              <div className="w-full h-full flex items-center justify-center text-gray-500">
-//                <MapPin className="w-10 h-10 md:w-12 md:h-12" />
-//              </div>
-//            </div>
           </div>
       </div>
     </section>
