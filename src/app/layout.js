@@ -12,7 +12,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "GBICiledug",
+  title: "Gereja Baptis Ciledug",
   description: "Gereja Baptis Indonesia Ciledug",
 };
 
