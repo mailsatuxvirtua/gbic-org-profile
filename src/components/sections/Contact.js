@@ -9,12 +9,12 @@ export function Contact() {
     {
       icon: MapPin,
       title: 'Alamat',
-      details: '123 Church Street, Cityville, ST 12345',
+      details: 'Jl. Krakatau No.RT.002, RW.006, Karang Tim., Kec. Karang Tengah, Kota Tangerang, Banten 15157',
     },
     {
       icon: Phone,
-      title: 'Nomor Telefon',
-      details: '(555) 123-4567',
+      title: 'Nomor Telepon',
+      details: '+62 889-8864-8656',
     },
 //    {
 //      icon: Mail,
